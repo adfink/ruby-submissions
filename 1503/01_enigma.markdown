@@ -36,7 +36,7 @@
 
 ### Andrew Fink
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/adfink/enigma
 * Fundamental Ruby:
 * TDD:
 * File I/O:
